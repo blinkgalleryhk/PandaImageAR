@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 47,
+    "width": 777,
+    "height": 1036,
+    "isRotated": false,
+    "originalWidth": 871,
+    "originalHeight": 1036
+  },
+  "imagePath": "image-targets/panda_luminance.png",
+  "metadata": null,
+  "name": "panda",
+  "resources": {
+    "originalImage": "panda_original.png",
+    "croppedImage": "panda_cropped.png",
+    "thumbnailImage": "panda_thumbnail.png",
+    "luminanceImage": "panda_luminance.png"
+  },
+  "created": 1786854678903,
+  "updated": 1786854678903
+}

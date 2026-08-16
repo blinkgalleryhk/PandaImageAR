@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 78,
+    "width": 873,
+    "height": 1165,
+    "isRotated": true,
+    "originalWidth": 1031,
+    "originalHeight": 1165
+  },
+  "imagePath": "image-targets/yellowpanda_luminance.png",
+  "metadata": null,
+  "name": "yellowpanda",
+  "resources": {
+    "originalImage": "yellowpanda_original.png",
+    "croppedImage": "yellowpanda_cropped.png",
+    "thumbnailImage": "yellowpanda_thumbnail.png",
+    "luminanceImage": "yellowpanda_luminance.png"
+  },
+  "created": 1786856932344,
+  "updated": 1786856932344
+}
